@@ -1,0 +1,46 @@
+body{
+	margin: 0;
+}
+
+h1{
+	text-align: center;
+}
+
+body{
+	background-color: #a1665e;
+}
+
+a{
+	color: black;
+}
+
+a:hover{
+	color: purple;
+}
+
+ul{
+	list-style: none;
+}
+
+#ethical > h2{
+	margin-top: 50px;
+}
+
+.TOC{
+	text-align: center;
+}
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width:50%;
+}
+
+p{
+	width: 50%
+}
+
+ul > h2{
+	margin-left: -40px;
+}
